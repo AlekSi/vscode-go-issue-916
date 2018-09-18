@@ -1,0 +1,5 @@
+{
+    "go.lintOnSave": "package",
+    "go.lintTool": "golint",
+    "go.lintFlags": []
+}
